@@ -1,0 +1,5 @@
+PyPDF2
+pdfplumber
+pandas
+EbookLib
+beautifulsoup4
